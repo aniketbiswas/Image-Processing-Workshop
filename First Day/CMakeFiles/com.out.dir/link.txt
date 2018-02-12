@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/./com.out.dir/Firstproject.o  -o ./com.out -rdynamic 

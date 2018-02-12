@@ -1,0 +1,22 @@
+BINARY IMAGE
+
+
+	* Transform to convert RGB image to grayscale
+Grayscale = (aR+bG+cB)/(a+b+c)
+
+ * ForBinary
+	if > Threshold
+	then 255
+	else 
+	0
+
+ * printing an image
+	int main()
+	{
+		Mat var1=imread("abc.jpg",1;
+		Mat var2= ;		
+		cvtColor(var1,var2,CV_HSV2BGR);  //CV_RGB2GRAY , CV_BGR2HSV
+		namedWindow()
+		waitKey();
+		return 0;
+	}
